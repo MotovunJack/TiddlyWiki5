@@ -1,13 +1,14 @@
 created: 20130822170200000
 list: [[A Gentle Guide to TiddlyWiki]] [[Discover TiddlyWiki]] [[Some of the things you can do with TiddlyWiki]] [[Ten reasons to switch to TiddlyWiki]] Examples [[What happened to the original TiddlyWiki?]]
-modified: 20230701123439630
+modified: 20230729072704264
+revision: 0
 tags: TableOfContents
 title: HelloThere
 type: text/vnd.tiddlywiki
 
-!!.tc-hero-heading ''Welcome to TiddlyWiki, a unique [[non-linear|Philosophy of Tiddlers]] notebook for [[capturing|Creating and editing tiddlers]], [[organising|Structuring TiddlyWiki]] and [[sharing|Sharing your tiddlers with others]] complex information''
+!!.tc-hero-heading ''Welcome to TiddlyWiki, a unique [[non-linear|Philosophy of Tiddlers]] notebook for [[capturing|Creating and editing tiddlers]], [[organising|Structuring TiddlyWiki]] and [[sharing|Sharing your tiddlers with others]] complex information'' 
 
-Use it to keep your [[to-do list|TaskManagementExample]], to plan an [[essay or novel|"TiddlyWiki for Scholars" by Alberto Molina]], or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website.
+Use it to keep your [[to-do list|TaskManagementExample]], to plan an [[essay or novel|"TiddlyWiki for Scholars" by Alberto Molina]], or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website. 
 
 TiddlyWiki lets you choose where to keep your data, guaranteeing that in the decades to come you will [[still be able to use|Future Proof]] the notes you take today.
 
@@ -27,7 +28,7 @@ TiddlyWiki lets you choose where to keep your data, guaranteeing that in the dec
 </$list>
 </div>
 
-!! ''Community''
+!! ''Community''ee
 
 <div class="tc-cards" style="font-size:0.7em;text-align:center;margin:3em auto;">
 <a href="https://talk.tiddlywiki.org/" class="tc-btn-big-green" style="border-radius:4px;background-color:#FF8C19;" target="_blank" rel="noopener noreferrer">
