@@ -1,6 +1,7 @@
 created: 20130822170200000
 list: [[A Gentle Guide to TiddlyWiki]] [[Discover TiddlyWiki]] [[Some of the things you can do with TiddlyWiki]] [[Ten reasons to switch to TiddlyWiki]] Examples [[What happened to the original TiddlyWiki?]]
-modified: 20230701123439630
+modified: 20230730162104356
+revision: 0
 tags: TableOfContents
 title: HelloThere
 type: text/vnd.tiddlywiki
@@ -26,7 +27,7 @@ TiddlyWiki lets you choose where to keep your data, guaranteeing that in the dec
 <$macrocall $name="flex-card" captionField="caption" descriptionField="text"/>
 </$list>
 </div>
-
+33
 !! ''Community''
 
 <div class="tc-cards" style="font-size:0.7em;text-align:center;margin:3em auto;">
