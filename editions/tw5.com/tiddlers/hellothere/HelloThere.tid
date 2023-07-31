@@ -1,6 +1,6 @@
 created: 20130822170200000
 list: [[A Gentle Guide to TiddlyWiki]] [[Discover TiddlyWiki]] [[Some of the things you can do with TiddlyWiki]] [[Ten reasons to switch to TiddlyWiki]] Examples [[What happened to the original TiddlyWiki?]]
-modified: 20230701123439630
+modified: 20230731065028583
 tags: TableOfContents
 title: HelloThere
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ Use it to keep your [[to-do list|TaskManagementExample]], to plan an [[essay or 
 TiddlyWiki lets you choose where to keep your data, guaranteeing that in the decades to come you will [[still be able to use|Future Proof]] the notes you take today.
 
 !! ''Quick Start''
-
+www
 <div class="tc-cards tc-action-card">
 <$list filter="[tag[Quick Start]]">
 <$macrocall $name="flex-card" bordercolor={{!!color}} textcolor={{!!text-color}} backgroundcolor={{!!background-color}} captionField="caption" descriptionField="text"/>
