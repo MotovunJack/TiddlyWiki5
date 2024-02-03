@@ -1,5 +1,6 @@
 created: 20131129090249275
-modified: 20220819041016415
+modified: 20240203105851277
+revision: 0
 tags: [[Working with TiddlyWiki]]
 title: GettingStarted
 type: text/vnd.tiddlywiki
@@ -13,3 +14,5 @@ The next step is to choose a method for saving changes. There's a wide variety o
 <<.warning "Don't attempt to use the browser ''File''/''Save'' menu option to save changes (it doesn't work)">><br/><br/>
 
 {{Saving}}
+
+test
